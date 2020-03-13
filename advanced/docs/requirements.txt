@@ -1,0 +1,10 @@
+git-lfs
+matplotlib
+nbconvert
+nbformat
+numpy
+numpydoc
+recommonmark
+scipy
+sphinx
+sphinx_rtd_theme

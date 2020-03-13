@@ -1,0 +1,16 @@
+.vscode/
+.idea/
+
+build/
+dist/
+venv/
+docs/changelog.md
+docs/_api/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.cache/
+.pytest_cache/
+*.egg-info/
+*.egg
